@@ -1,0 +1,1 @@
+This Social Network API project was created by Ben McCormick under the guidelines provided by the UC Berkeley Extension BootcampSpot via edX. 
